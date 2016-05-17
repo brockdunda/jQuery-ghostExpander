@@ -4,7 +4,7 @@
    *
    * Given a container, adds a button after the container and when click expands to full height and collapses
    * to default height or to defined height by options.
-   *test
+   *
    */
   // Methods for ghostExpander plugin
   // TODO: add a destroy method
